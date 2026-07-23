@@ -1,13 +1,14 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./assets/animated-ritual.svg" width="100%" alt="Banner animado ritualistico da wrnati" />
 
 <br />
-<img src="./assets/nameplate.svg" width="72%" alt="wrnati UI UX Designer" />
 
 <p>
-interfaces com atmosfera, ritmo visual e aquele detalhe estranho que faz a tela ficar na memoria.
+  <strong>interfaces com atmosfera, ritmo visual e aquele detalhe estranho que faz a tela ficar na memoria.</strong>
 </p>
+
+<img src="./assets/mood-panel.svg" width="100%" alt="Painel visual sombrio e ritualistico" />
 
 </div>
 
@@ -20,30 +21,14 @@ interfaces com atmosfera, ritmo visual e aquele detalhe estranho que faz a tela 
 Eu desenho experiencias para sites e produtos digitais.
 
 Meu foco nao e codigo.  
-Meu foco e **moldar a sensacao da interface**: organizar o caos, escolher o clima, montar a hierarquia e fazer cada tela parecer intencional.
-
-</div>
+Meu foco e moldar a sensacao da interface: organizar o caos, escolher o clima, montar a hierarquia e fazer cada tela parecer intencional.
 
 <br />
 
-<div align="center">
+<strong>direcao visual</strong> · <strong>experiencia</strong> · <strong>acabamento</strong>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>direcao visual</strong><br />
-      clima, cor, composicao e identidade
-    </td>
-    <td align="center" width="33%">
-      <strong>experiencia</strong><br />
-      fluxo, leitura, organizacao e clareza
-    </td>
-    <td align="center" width="33%">
-      <strong>acabamento</strong><br />
-      detalhes, contraste, ritmo e consistencia
-    </td>
-  </tr>
-</table>
+<br />
+<sub>clima, fluxo, contraste, leitura, composicao e consistencia.</sub>
 
 </div>
 
@@ -55,20 +40,27 @@ Meu foco e **moldar a sensacao da interface**: organizar o caos, escolher o clim
 
 Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritualistico.
 
-<table align="center">
-  <tr>
-    <td align="center"><sub><code>funcao</code></sub><br /><b>UI/UX Designer</b></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><code>missao</code></sub><br /><b>dar forma visual para ideias</b></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><code>energia</code></sub><br /><b>paranormal, elegante e caotica na medida certa</b></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><code>assinatura</code></sub><br /><b>telas com personalidade</b></td>
-  </tr>
-</table>
+<br />
+
+<p align="center">
+  <sub><code>funcao</code></sub><br />
+  <strong>UI/UX Designer</strong>
+</p>
+
+<p align="center">
+  <sub><code>missao</code></sub><br />
+  <strong>dar forma visual para ideias</strong>
+</p>
+
+<p align="center">
+  <sub><code>energia</code></sub><br />
+  <strong>paranormal, elegante e caotica na medida certa</strong>
+</p>
+
+<p align="center">
+  <sub><code>assinatura</code></sub><br />
+  <strong>telas com personalidade</strong>
+</p>
 
 </div>
 
@@ -76,34 +68,15 @@ Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritual
 
 <div align="center">
 
-## referencias visuais
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./assets/ritual-room.jpeg" width="100%" alt="Sala ritualistica vermelha" />
-    </td>
-    <td align="center" width="50%">
-      <img src="./assets/red-room.jpeg" width="100%" alt="Ambiente vermelho sombrio" />
-    </td>
-  </tr>
-</table>
-
-<sub>clima visual: vermelho profundo, misterio, simbolos e atmosfera de ritual.</sub>
-
-</div>
-<br />
-<div align="center">
-
 ## como eu penso uma interface
 
-<table align="center">
-  <tr><td align="center"><b>01.</b> entender o clima</td></tr>
-  <tr><td align="center"><b>02.</b> cortar o ruido</td></tr>
-  <tr><td align="center"><b>03.</b> organizar o caminho</td></tr>
-  <tr><td align="center"><b>04.</b> criar uma identidade visual forte</td></tr>
-  <tr><td align="center"><b>05.</b> lapidar ate parecer natural</td></tr>
-</table>
+<p align="center">
+  <strong>01.</strong> entender o clima<br />
+  <strong>02.</strong> cortar o ruido<br />
+  <strong>03.</strong> organizar o caminho<br />
+  <strong>04.</strong> criar uma identidade visual forte<br />
+  <strong>05.</strong> lapidar ate parecer natural
+</p>
 
 </div>
 
@@ -115,13 +88,13 @@ Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritual
 
 Espaco para estudos visuais, redesigns, telas, experimentos e interfaces com uma pegada mais autoral.
 
-<table align="center">
-  <tr><td align="center">landing pages</td></tr>
-  <tr><td align="center">redesigns</td></tr>
-  <tr><td align="center">identidade para telas</td></tr>
-  <tr><td align="center">prototipos</td></tr>
-  <tr><td align="center">experimentos de UI</td></tr>
-</table>
+<p align="center">
+  landing pages<br />
+  redesigns<br />
+  identidade para telas<br />
+  prototipos<br />
+  experimentos de UI
+</p>
 
 </div>
 
