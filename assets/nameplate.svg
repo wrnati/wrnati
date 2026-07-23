@@ -1,0 +1,17 @@
+<svg width="900" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="160" fill="#050304"/>
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path d="M115 80H315M585 80H785" stroke="#8B1018" stroke-width="2"/>
+  <circle cx="450" cy="80" r="42" stroke="#8B1018" stroke-width="2"/>
+  <path d="M450 37L462 70H497L469 90L480 123L450 103L420 123L431 90L403 70H438L450 37Z" stroke="#D92735" stroke-width="2"/>
+  <text x="450" y="76" text-anchor="middle" fill="#F6DADB" font-family="Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="10" filter="url(#glow)">wrnati</text>
+  <text x="450" y="112" text-anchor="middle" fill="#C95B63" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="6">UI / UX DESIGNER</text>
+</svg>

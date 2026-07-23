@@ -3,9 +3,7 @@
 <img src="./assets/animated-ritual.svg" width="100%" alt="Banner animado ritualistico da wrnati" />
 
 <br />
-<h1>wrnati</h1>
-
-<h3>UI/UX Designer</h3>
+<img src="./assets/nameplate.svg" width="72%" alt="wrnati UI UX Designer" />
 
 <p>
 interfaces com atmosfera, ritmo visual e aquele detalhe estranho que faz a tela ficar na memoria.
@@ -74,6 +72,26 @@ Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritual
 
 </div>
 
+<img src="./assets/animated-divider.svg" width="100%" alt="Divisor animado" />
+
+<div align="center">
+
+## referencias visuais
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/ritual-room.jpeg" width="100%" alt="Sala ritualistica vermelha" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/red-room.jpeg" width="100%" alt="Ambiente vermelho sombrio" />
+    </td>
+  </tr>
+</table>
+
+<sub>clima visual: vermelho profundo, misterio, simbolos e atmosfera de ritual.</sub>
+
+</div>
 <br />
 <div align="center">
 
