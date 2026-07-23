@@ -79,13 +79,13 @@ Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritual
 
 ## como eu penso uma interface
 
-```text
-01. entender o clima
-02. cortar o ruido
-03. organizar o caminho
-04. criar uma identidade visual forte
-05. lapidar ate parecer natural
-```
+<table align="center">
+  <tr><td align="center"><b>01.</b> entender o clima</td></tr>
+  <tr><td align="center"><b>02.</b> cortar o ruido</td></tr>
+  <tr><td align="center"><b>03.</b> organizar o caminho</td></tr>
+  <tr><td align="center"><b>04.</b> criar uma identidade visual forte</td></tr>
+  <tr><td align="center"><b>05.</b> lapidar ate parecer natural</td></tr>
+</table>
 
 </div>
 
@@ -97,13 +97,13 @@ Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritual
 
 Espaco para estudos visuais, redesigns, telas, experimentos e interfaces com uma pegada mais autoral.
 
-```text
-landing pages
-redesigns
-identidade para telas
-prototipos
-experimentos de UI
-```
+<table align="center">
+  <tr><td align="center">landing pages</td></tr>
+  <tr><td align="center">redesigns</td></tr>
+  <tr><td align="center">identidade para telas</td></tr>
+  <tr><td align="center">prototipos</td></tr>
+  <tr><td align="center">experimentos de UI</td></tr>
+</table>
 
 </div>
 
