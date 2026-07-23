@@ -1,11 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="./assets/animated-ritual.svg" width="100%" alt="Banner animado ritualistico da wrnati" />
 
 <br />
-
-<img src="./assets/agatha-pinterest-orenjiro.jpg" width="190" alt="Agatha Volkomenn" />
-
 <h1>wrnati</h1>
 
 <h3>UI/UX Designer</h3>
@@ -60,25 +57,24 @@ Meu foco e **moldar a sensacao da interface**: organizar o caos, escolher o clim
 
 Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritualistico.
 
-```text
-funcao: UI/UX Designer
-missao: dar forma visual para ideias
-energia: paranormal, elegante e caotica na medida certa
-assinatura: telas com personalidade
-```
+<table align="center">
+  <tr>
+    <td align="center"><sub><code>funcao</code></sub><br /><b>UI/UX Designer</b></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>missao</code></sub><br /><b>dar forma visual para ideias</b></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>energia</code></sub><br /><b>paranormal, elegante e caotica na medida certa</b></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>assinatura</code></sub><br /><b>telas com personalidade</b></td>
+  </tr>
+</table>
 
 </div>
 
 <br />
-
-<div align="center">
-
-<img src="./assets/agatha-shrine.png" width="430" alt="Agatha Volkomenn shrine" />
-
-</div>
-
-<br />
-
 <div align="center">
 
 ## como eu penso uma interface
@@ -125,13 +121,6 @@ experimentos de UI
 
 <sub>
 design nao e so deixar bonito. e fazer a tela parecer que sabe alguma coisa que voce nao sabe.
-</sub>
-
-<br />
-<br />
-
-<sub>
-Imagens de referencia da Agatha usadas para perfil pessoal/fan profile. Creditos: Pinterest cita o artista @Orenjiro_Art; shrine/fan page por mlklucasb no Neocities. Ordem Paranormal pertence aos seus respectivos criadores.
 </sub>
 
 </div>
