@@ -1,90 +1,97 @@
 <div align="center">
 
-<img src="./assets/agatha.png" width="130" alt="Avatar inspirado na Aghata" />
+<img src="./assets/ritual-banner.svg" width="100%" alt="Banner ritualistico vermelho" />
+
+<br />
+
+<img src="./assets/agatha.png" width="128" alt="Avatar inspirado na Aghata" />
 
 # wrnati
 
-### entre codigo, misterio e sinais que nao deveriam aparecer na tela
+### UI/UX Designer
 
-![Profile views](https://komarev.com/ghpvc/?username=wrnati&color=8b0000&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/wrnati?style=flat-square&color=111111&labelColor=8b0000)
-![GitHub stars](https://img.shields.io/github/stars/wrnati?style=flat-square&color=111111&labelColor=8b0000)
+interfaces com clima, intencao e um pouco de misterio
 
 </div>
 
----
+<img src="./assets/blood-divider.svg" width="100%" alt="Divisor vermelho" />
 
-## sobre mim
+## sobre
 
-Oi, eu sou a **wrnati**.
+Eu sou a **wrnati**.
 
-Gosto de construir coisas que parecem simples por fora, mas que tem uma estrutura bem pensada por dentro.  
-Meu jeito de trabalhar mistura curiosidade, paciencia e aquela vontade insistente de entender o que esta acontecendo por tras da tela.
+Meu foco e moldar experiencias visuais: transformar ideia solta em tela, tela em fluxo, fluxo em algo que faz sentido para quem usa.
 
-Este perfil segue uma vibe inspirada na **Aghata**, de Ordem Paranormal: investigativo, meio sombrio, meio ritualistico, mas ainda direto ao ponto.
+Este perfil tem uma estetica inspirada na **Aghata**, de Ordem Paranormal: escuro, vermelho, simbolico e meio ritualistico. A proposta nao e parecer comum. E parecer memoravel.
 
 ```text
-status: investigando bugs
-classe: dev em evolucao
-inventario: cafe, terminal, github e coragem duvidosa
-missao atual: transformar ideias estranhas em projetos reais
+area: UI/UX Design
+especialidade: interfaces com personalidade
+ritual favorito: organizar caos visual
+missao: fazer o site sentir que tem alma
 ```
 
-## areas que eu curto
+## o que eu desenho
 
-- Desenvolvimento web
-- Frontend com identidade visual
-- Backend bem organizado
-- Git, documentacao e fluxo de equipe
-- Projetos com personalidade
-
-## stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=ff4b2b)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=3b82f6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=8993be)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=00b4d8)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=f05032)
-
-</div>
-
-## painel de investigacao
+- Identidade visual para paginas e produtos
+- Landing pages com atmosfera propria
+- Fluxos de usuario mais claros
+- Wireframes e prototipos
+- Interfaces com narrativa visual
+- Ajustes de layout, hierarquia, ritmo e contraste
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wrnati&show_icons=true&theme=radical&hide_border=true&title_color=ff3b3b&icon_color=ff3b3b&bg_color=0d0d0d" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrnati&layout=compact&theme=radical&hide_border=true&title_color=ff3b3b&bg_color=0d0d0d" alt="Top languages" />
+<img src="./assets/ui-sigil.svg" width="260" alt="Sigilo UI UX" />
 
 </div>
 
-## grimorio de projetos
+## jeito de trabalhar
 
 ```text
-01. projetos pessoais
-02. estudos e testes
-03. interfaces com clima proprio
-04. sistemas que precisam sair do caos e virar entrega
+1. entender o clima do projeto
+2. descobrir o que a tela precisa dizer
+3. organizar a experiencia
+4. escolher cores, ritmo e contraste
+5. lapidar ate parecer simples
+```
+
+## direcao visual
+
+| elemento | intencao |
+| --- | --- |
+| vermelho escuro | energia, presenca, impacto |
+| preto | misterio, foco, profundidade |
+| simbolos | identidade e memorabilidade |
+| espaco vazio | respiro e controle |
+| contraste forte | leitura rapida e personalidade |
+
+## projetos
+
+Aqui entram trabalhos de UI/UX, telas, estudos visuais e ideias que merecem sair do rascunho.
+
+```text
+interfaces
+experimentos visuais
+prototipos
+redesigns
+identidades para paginas
 ```
 
 ## contato
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-wrnati-8b0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wrnati)
+[![GitHub](https://img.shields.io/badge/GitHub-wrnati-8B1018?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wrnati)
 
 </div>
 
----
+<img src="./assets/blood-divider.svg" width="100%" alt="Divisor vermelho" />
 
 <div align="center">
 
 <sub>
-nem todo erro e bug. as vezes e so o sistema tentando avisar alguma coisa.
+design nao e so deixar bonito. e fazer a tela olhar de volta.
 </sub>
 
 </div>
-

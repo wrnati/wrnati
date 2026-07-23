@@ -1,0 +1,19 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" fill="#070506"/>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 180) rotate(90) scale(220 520)">
+    <stop stop-color="#7A0F16" stop-opacity="0.95"/>
+    <stop offset="0.48" stop-color="#1B0508" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#070506" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1200" height="360" fill="url(#g1)"/>
+  <path d="M0 285C118 245 218 333 340 282C475 226 545 80 686 106C821 131 874 277 1015 270C1092 266 1135 228 1200 200" stroke="#B61926" stroke-width="2" stroke-opacity="0.35"/>
+  <path d="M0 306C137 272 239 354 368 300C489 249 560 115 687 128C823 142 873 301 1014 296C1100 293 1142 246 1200 223" stroke="#F24855" stroke-width="1" stroke-opacity="0.22"/>
+  <circle cx="600" cy="178" r="118" stroke="#B61926" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="600" cy="178" r="78" stroke="#F24855" stroke-opacity="0.22" stroke-width="1"/>
+  <path d="M600 72L628 151L711 151L644 199L670 280L600 231L530 280L556 199L489 151L572 151L600 72Z" stroke="#E12B39" stroke-width="2" stroke-opacity="0.46"/>
+  <path d="M458 178H742M600 36V318M499 77L701 279M701 77L499 279" stroke="#8E111A" stroke-width="1" stroke-opacity="0.35"/>
+  <g opacity="0.2">
+    <path d="M90 80H220M90 100H170M90 120H245" stroke="#F24855"/>
+    <path d="M980 245H1110M1030 265H1110M955 285H1110" stroke="#F24855"/>
+  </g>
+</svg>
