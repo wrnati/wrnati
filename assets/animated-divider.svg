@@ -1,0 +1,10 @@
+<svg width="1200" height="52" viewBox="0 0 1200 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="52" fill="#050304"/>
+  <path d="M0 26H500" stroke="#6E0D14" stroke-width="2"/>
+  <path d="M700 26H1200" stroke="#6E0D14" stroke-width="2"/>
+  <circle cx="600" cy="26" r="17" stroke="#D92735" stroke-width="2">
+    <animate attributeName="r" values="14;19;14" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M600 9L605 22H619L608 31L612 45L600 37L588 45L592 31L581 22H595L600 9Z" stroke="#FF4A58" stroke-width="1.5"/>
+</svg>

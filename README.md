@@ -1,84 +1,117 @@
 <div align="center">
 
-<img src="./assets/ritual-banner.svg" width="100%" alt="Banner ritualistico vermelho" />
+<img src="./assets/animated-ritual.svg" width="100%" alt="Banner animado ritualistico da wrnati" />
 
 <br />
 
-<img src="./assets/agatha.png" width="128" alt="Avatar inspirado na Aghata" />
+<img src="./assets/agatha-pinterest-orenjiro.jpg" width="190" alt="Agatha Volkomenn" />
 
-# wrnati
+<h1>wrnati</h1>
 
-### UI/UX Designer
+<h3>UI/UX Designer</h3>
 
-interfaces com clima, intencao e um pouco de misterio
+<p>
+interfaces com atmosfera, ritmo visual e aquele detalhe estranho que faz a tela ficar na memoria.
+</p>
 
 </div>
 
-<img src="./assets/blood-divider.svg" width="100%" alt="Divisor vermelho" />
-
-## sobre
-
-Eu sou a **wrnati**.
-
-Meu foco e moldar experiencias visuais: transformar ideia solta em tela, tela em fluxo, fluxo em algo que faz sentido para quem usa.
-
-Este perfil tem uma estetica inspirada na **Aghata**, de Ordem Paranormal: escuro, vermelho, simbolico e meio ritualistico. A proposta nao e parecer comum. E parecer memoravel.
-
-```text
-area: UI/UX Design
-especialidade: interfaces com personalidade
-ritual favorito: organizar caos visual
-missao: fazer o site sentir que tem alma
-```
-
-## o que eu desenho
-
-- Identidade visual para paginas e produtos
-- Landing pages com atmosfera propria
-- Fluxos de usuario mais claros
-- Wireframes e prototipos
-- Interfaces com narrativa visual
-- Ajustes de layout, hierarquia, ritmo e contraste
+<img src="./assets/animated-divider.svg" width="100%" alt="Divisor animado" />
 
 <div align="center">
 
-<img src="./assets/ui-sigil.svg" width="260" alt="Sigilo UI UX" />
+## o que eu faco
+
+Eu desenho experiencias para sites e produtos digitais.
+
+Meu foco nao e codigo.  
+Meu foco e **moldar a sensacao da interface**: organizar o caos, escolher o clima, montar a hierarquia e fazer cada tela parecer intencional.
 
 </div>
 
-## jeito de trabalhar
+<br />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>direcao visual</strong><br />
+      clima, cor, composicao e identidade
+    </td>
+    <td align="center" width="33%">
+      <strong>experiencia</strong><br />
+      fluxo, leitura, organizacao e clareza
+    </td>
+    <td align="center" width="33%">
+      <strong>acabamento</strong><br />
+      detalhes, contraste, ritmo e consistencia
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="./assets/animated-divider.svg" width="100%" alt="Divisor animado" />
+
+<div align="center">
+
+## clima do perfil
+
+Inspirado na Aghata de Ordem Paranormal: escuro, vermelho, intenso e meio ritualistico.
 
 ```text
-1. entender o clima do projeto
-2. descobrir o que a tela precisa dizer
-3. organizar a experiencia
-4. escolher cores, ritmo e contraste
-5. lapidar ate parecer simples
+funcao: UI/UX Designer
+missao: dar forma visual para ideias
+energia: paranormal, elegante e caotica na medida certa
+assinatura: telas com personalidade
 ```
 
-## direcao visual
+</div>
 
-| elemento | intencao |
-| --- | --- |
-| vermelho escuro | energia, presenca, impacto |
-| preto | misterio, foco, profundidade |
-| simbolos | identidade e memorabilidade |
-| espaco vazio | respiro e controle |
-| contraste forte | leitura rapida e personalidade |
+<br />
+
+<div align="center">
+
+<img src="./assets/agatha-shrine.png" width="430" alt="Agatha Volkomenn shrine" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+## como eu penso uma interface
+
+```text
+01. entender o clima
+02. cortar o ruido
+03. organizar o caminho
+04. criar uma identidade visual forte
+05. lapidar ate parecer natural
+```
+
+</div>
+
+<img src="./assets/animated-divider.svg" width="100%" alt="Divisor animado" />
+
+<div align="center">
 
 ## projetos
 
-Aqui entram trabalhos de UI/UX, telas, estudos visuais e ideias que merecem sair do rascunho.
+Espaco para estudos visuais, redesigns, telas, experimentos e interfaces com uma pegada mais autoral.
 
 ```text
-interfaces
-experimentos visuais
-prototipos
+landing pages
 redesigns
-identidades para paginas
+identidade para telas
+prototipos
+experimentos de UI
 ```
 
-## contato
+</div>
+
+<br />
 
 <div align="center">
 
@@ -86,12 +119,19 @@ identidades para paginas
 
 </div>
 
-<img src="./assets/blood-divider.svg" width="100%" alt="Divisor vermelho" />
+<img src="./assets/animated-divider.svg" width="100%" alt="Divisor animado" />
 
 <div align="center">
 
 <sub>
-design nao e so deixar bonito. e fazer a tela olhar de volta.
+design nao e so deixar bonito. e fazer a tela parecer que sabe alguma coisa que voce nao sabe.
+</sub>
+
+<br />
+<br />
+
+<sub>
+Imagens de referencia da Agatha usadas para perfil pessoal/fan profile. Creditos: Pinterest cita o artista @Orenjiro_Art; shrine/fan page por mlklucasb no Neocities. Ordem Paranormal pertence aos seus respectivos criadores.
 </sub>
 
 </div>

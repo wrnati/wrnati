@@ -1,0 +1,37 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" fill="#050304"/>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 110) rotate(90) scale(120 520)">
+      <stop stop-color="#8B1018" stop-opacity="0.9"/>
+      <stop offset="0.55" stop-color="#26070A" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#050304" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="220" fill="url(#glow)"/>
+  <g transform-origin="600 110">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 110" to="360 600 110" dur="28s" repeatCount="indefinite"/>
+    <circle cx="600" cy="110" r="78" stroke="#E12B39" stroke-width="2" stroke-opacity="0.42"/>
+    <circle cx="600" cy="110" r="48" stroke="#FF4A58" stroke-width="1" stroke-opacity="0.28"/>
+    <path d="M600 28L624 90H690L637 129L657 193L600 154L543 193L563 129L510 90H576L600 28Z" stroke="#F24855" stroke-width="2" stroke-opacity="0.65"/>
+  </g>
+  <g opacity="0.38">
+    <path d="M0 165C120 135 220 205 350 160C480 115 545 58 660 82C785 108 855 190 990 172C1075 161 1130 130 1200 118" stroke="#E12B39" stroke-width="2"/>
+    <animate attributeName="opacity" values="0.18;0.48;0.18" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <g filter="url(#soft)" opacity="0.8">
+    <circle cx="195" cy="56" r="3" fill="#FF4A58">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1015" cy="156" r="3" fill="#FF4A58">
+      <animate attributeName="opacity" values="1;0.15;1" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="730" cy="42" r="2" fill="#FF4A58">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="600" y="108" text-anchor="middle" fill="#F5D7D9" font-family="Georgia, serif" font-size="34" letter-spacing="6">WRNATI</text>
+  <text x="600" y="143" text-anchor="middle" fill="#C95B63" font-family="Verdana, sans-serif" font-size="13" letter-spacing="5">UI / UX DESIGN</text>
+</svg>
